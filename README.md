@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Warach Weeraphan</h1>
-<h3 align="center">New IT Graduate from Thai-Nichi Institute of Technology</h3>
+<h3 align="center">Fresh IT Graduate from Thai-Nichi Institute of Technology</h3>
 
 - 🌱 I’m currently learning **Node.js, React.js, Springboot, GO**
 
