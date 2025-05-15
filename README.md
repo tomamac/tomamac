@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **we.warach@outlook.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/warach-resume](https://tinyurl.com/warach-resume)
+- 📄 Know about my experiences <a href="https://tinyurl.com/warach-resume" target="_blank">https://tinyurl.com/warach-resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
