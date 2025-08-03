@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Warach Weeraphan</h1>
 <h3 align="center">Fresh IT Graduate from Thai-Nichi Institute of Technology</h3>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Websocket with SignalR**
 
 - 📫 How to reach me **we.warach@outlook.com**
 
